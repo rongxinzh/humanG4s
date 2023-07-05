@@ -1,6 +1,6 @@
 # humanG4s
 
-This repository contains predicted G-quadruplex (G4) sequence coordinates in the human genome using the G4Hunter under the genome assembly of **hg19**.
+This repository contains predicted G-quadruplex (G4) sequence coordinates in the human genome using the G4Hunter software under the genome assembly of **hg19**.
 The prediction threshold for G4Hunter was set to a window size of 25bp and a score of 1.5.
 
 ## Files
