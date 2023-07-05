@@ -11,7 +11,7 @@ Please note that the file only includes the 22 autosomes and the X chromosome.
 ## Usage
 To use the predicted G-quadruplex coordinates in your research or analysis, you can download the `G4Hunter_window25_score1.5.txt` file from this repository.
 The current parameter settings are optimal, as discussions with Jean-Louis Mergny. However, if you have your own sequences and wish to customize the predictions, we recommend using the online version of the G4Hunter program.
-[G4Hunter APP]([https://duckduckgo.com](https://bioinformatics.cruk.cam.ac.uk/G4Hunter/)https://bioinformatics.cruk.cam.ac.uk/G4Hunter/)
+[G4Hunter APP](https://bioinformatics.cruk.cam.ac.uk/G4Hunter/)
 
 ## Citation
 Not yet available.
