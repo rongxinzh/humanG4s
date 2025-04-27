@@ -16,5 +16,5 @@ The current parameter settings are optimal, as discussed with Jean-Louis Mergny.
 Not yet available.
 
 ## Contact
-rongxinzhang@seu.edu.cn
+rongxinzhang@outlook.com
 
